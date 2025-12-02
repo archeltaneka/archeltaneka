@@ -10,14 +10,10 @@ My favorite child is [Table Tennis Analytics](https://www.github.com/archeltanek
 Currently working remotely at Mercor, hopping between projects like a data-driven nomad. One day I'm building recommendation systems, the next I'm wrangling time series data that's as unpredictable as my sleeping schedule.
 
 ## 🛠️ My Arsenal
-Languages I speak to machines:
-Python, SQL,  R (when I'm feeling nostalgic)
-My favorite toys:
-scikit-learn, TensorFlow, PyTorch, pandas, NumPy, PySpark
-Making things pretty:
-Plotly, Seaborn, Tableau (because even data deserves good design)
-Adulting tools:
-Docker, Git, AWS, Jupyter (my second home)
+1. Languages I speak to machines: Python, SQL,  R (when I'm feeling nostalgic)
+2. My favorite toys: scikit-learn, TensorFlow, PyTorch, pandas, NumPy, PySpark
+3. Making things pretty: Plotly, Seaborn, Tableau (because even data deserves good design)
+4. Adulting tools: Docker, Git, AWS, Jupyter (my second home)
 
 ## 💡 Fun facts
 - I've probably spent more time debugging pandas indexing than actually analyzing data
