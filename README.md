@@ -35,8 +35,5 @@ Currently working remotely at Mercor, hopping between projects like a data-drive
 
 ---
 [![](https://visitcount.itsvg.in/api?id=archeltaneka&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
----
 *"In God we trust, all others must bring data." — W. Edwards Deming (probably didn't imagine the size of my CSV files though)*
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
