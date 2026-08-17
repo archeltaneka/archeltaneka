@@ -1,39 +1,134 @@
-# 💫 About Me:
-Hi!👋<br><br>
+<h1 align="center">Hi, I'm Archel 👋</h1>
 
-I'm [Archel](https://archeltaneka.github.io), a data scientist based in Australia, enrolled in the final year of my Master's of Data Science at Monash University.<br><br>
+<p align="center">
+  <strong>Data Scientist · Machine Learning · AI Engineering</strong>
+</p>
 
-I turn messy datasets into slightly less messy insights, and occasionally convince computers to predict the future (results may vary).<br><br>
+<p align="center">
+  Building intelligent systems at the intersection of machine learning,
+  experimentation, and production AI.
+</p>
 
-My favorite child is [Table Tennis Analytics](https://www.github.com/archeltaneka/table-tennis-analytics) because apparently, analyzing player positions with computer vision is easier than actually winning a match.
-
-## 🔭 What I'm up to
-Currently working remotely at Mercor, hopping between projects like a data-driven nomad. One day I'm building recommendation systems, the next I'm wrangling time series data that's as unpredictable as my sleeping schedule.
-
-## 🛠️ My Arsenal
-1. Languages I speak to machines: Python, SQL,  R (when I'm feeling nostalgic)<br>
-2. My favorite toys: scikit-learn, TensorFlow, PyTorch, pandas, NumPy, PySpark<br>
-3. Making things pretty: Plotly, Seaborn, Tableau (because even data deserves good design)<br>
-4. Adulting tools: Docker, Git, AWS, Jupyter (my second home)<br><br>
-
-## 💡 Fun facts
-- I've probably spent more time debugging pandas indexing than actually analyzing data
-- My model accuracy and caffeine levels are strongly correlated (r = 0.89, p < 0.001)
-- I once spent 3 hours optimizing code that saved 2 seconds of runtime. Worth it.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/archeltaneka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/archel-taneka-sutanto) 
-
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=plastic&logo=codecov&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=archeltaneka&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=archeltaneka&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=archeltaneka&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://archeltaneka.github.io">Portfolio</a> •
+  <a href="https://linkedin.com/in/archel-taneka-sutanto">LinkedIn</a> •
+  <a href="https://github.com/archeltaneka">GitHub</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=archeltaneka&icon=0&color=0)](https://visitcount.itsvg.in)
-*"In God we trust, all others must bring data." — W. Edwards Deming (probably didn't imagine the size of my CSV files though)*
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 👨‍💻 About Me
+
+I'm a Data Scientist completing a **Master of Data Science at Monash University**, with professional experience building machine learning and data products across recommendation systems, experimentation, computer vision, and predictive analytics.
+
+I enjoy working on problems where **machine learning meets real product decisions**, not just training models, but figuring out whether they work, why they work, and how they create measurable value.
+
+More recently, I've been expanding deeper into **AI engineering, RAG, agentic systems, LLM evaluation, and causal inference**.
+
+Currently building **ExperimentOS AI**, my flagship project exploring what a production-grade AI system for product experimentation and decision intelligence could look like.
+
+---
+
+## Featured Project: ExperimentOS AI
+
+### Agentic Product Experimentation & Decision Intelligence Platform
+
+> **What if an AI system could investigate product experiments instead of simply summarizing them?**
+
+[**Explore ExperimentOS AI →**](https://github.com/archeltaneka/ExperimentOS-AI)
+
+ExperimentOS AI is an AI-powered experimentation platform designed to help Product Data Scientists reason about experiments using **retrieval, statistical analysis, multi-agent workflows, and decision intelligence**.
+
+Instead of answering:
+
+> *"Did experiment X increase conversion?"*
+
+the system is being designed to answer questions closer to:
+
+> *"What is the estimated treatment effect, which user segments benefited most, how uncertain is the result, and what is the expected business impact?"*
+
+### What I'm building
+
+- **RAG pipeline** for experiment knowledge retrieval and grounded answers
+- **Multi-agent orchestration** with LangGraph
+- **Experimentation & causal inference** workflows
+- **LLM evaluation** with golden datasets, factuality checks, and regression testing
+- **AI observability** and distributed tracing
+- **Prompt experimentation and versioning**
+- **CI/CD quality gates** for AI reliability
+- Containerized services with PostgreSQL + pgvector
+
+**Core stack**
+
+`Python` · `FastAPI` · `PostgreSQL` · `pgvector` · `LangGraph` · `OpenAI` · `Ollama` · `Docker` · `OpenTelemetry` · `GitHub Actions`
+
+---
+
+## Technical Toolkit
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+### Machine Learning & AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Data
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+### Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Analytics & Visualization
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
+## What I'm Interested In
+
+I'm particularly interested in engineering and data problems involving:
+
+- **Product experimentation & causal inference**
+- **Machine learning systems**
+- **LLM / RAG applications**
+- **AI evaluation & reliability**
+- **Recommendation & personalization**
+- **Product analytics & decision intelligence**
+
+---
+
+## 📌 Explore My Work
+
+Check out my pinned repositories below for projects across **AI engineering, machine learning, experimentation, and computer vision**.
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing **data science, ML systems, AI engineering, experimentation**, or interesting problems where data can actually influence a product decision.
+
+<p align="center">
+  <a href="https://archeltaneka.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/archel-taneka-sutanto">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
